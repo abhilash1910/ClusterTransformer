@@ -1,6 +1,6 @@
 # ClusterTransformer
 
-## A BERT Embedding library for sentence semantic similarity measurement :robot:
+## A Topic Clustering Library made with Transformer Embeddings :robot:
 
 
 
