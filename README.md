@@ -41,9 +41,9 @@ The  'ClusterTransformer_test.py' file contains an example of using the Library 
 
 ### Images
 
-[Agglomerative Clustering with Cutoff Threshold](https://i.imgur.com/0x9RRQb.png)
+<img src="https://i.imgur.com/0x9RRQb.png">
 
-[Kmeans clustering](https://i.imgur.com/0JLIePy.png)
+<img src="https://i.imgur.com/0JLIePy.png">
 
 
 ## Contributing
