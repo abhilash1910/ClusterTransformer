@@ -39,6 +39,13 @@ The  'ClusterTransformer_test.py' file contains an example of using the Library 
 
 [Colab-Demo](https://colab.research.google.com/drive/18HAoATFfuXGAGzPcOhWgZa0a9B6yOpKK?usp=sharing)
 
+### Images
+
+[Agglomerative Clustering with Cutoff Threshold](https://i.imgur.com/0x9RRQb.png)
+
+[Kmeans clustering](https://i.imgur.com/0JLIePy.png)
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
