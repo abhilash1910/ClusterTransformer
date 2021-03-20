@@ -37,13 +37,19 @@ The  'ClusterTransformer_test.py' file contains an example of using the Library 
 
 ## Samples
 
+
 [Colab-Demo](https://colab.research.google.com/drive/18HAoATFfuXGAGzPcOhWgZa0a9B6yOpKK?usp=sharing)
+
+
+[Colab-Demo](https://colab.research.google.com/drive/1sLhuHiUqAUHgsbovA6-kiTaLfwy8QzSn?usp=sharing)
+
+
+[Kaggle Notebook](https://www.kaggle.com/abhilash1910/clustertransformer-topic-modelling-in-transformers/)
+
 
 ### Images
 
-<img src="https://i.imgur.com/0x9RRQb.png">
-
-<img src="https://i.imgur.com/0JLIePy.png">
+<img src="https://i.imgur.com/Fjm01Ca.png">
 
 
 ## Contributing
