@@ -52,6 +52,12 @@ The  'ClusterTransformer_test.py' file contains an example of using the Library 
 <img src="https://i.imgur.com/Fjm01Ca.png">
 
 
+Post Cluster Images (With Facebook BART)
+
+
+<img src="https://i.imgur.com/y9Oc5XW.png">
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
