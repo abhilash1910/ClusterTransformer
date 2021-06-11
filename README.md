@@ -4,7 +4,7 @@
 ## A Topic Clustering Library made with Transformer Embeddings :robot:
 
 
-This is a topic  clustering library built with transformer eembeddings and analysing cosine similarity between them. The topics are clustered either by kmeans or agglomeratively depending on the use case, and the embeddings are attained after propagating through any of the Transformers present in [HuggingFace](https://huggingface.co/transformers/pretrained_models.html).The library can be found [here](https://pypi.org/project/ClusterTransformer/).
+This is a topic  clustering library built with transformer embeddings and analysing cosine similarity between them. The topics are clustered either by kmeans or agglomeratively depending on the use case, and the embeddings are attained after propagating through any of the Transformers present in [HuggingFace](https://huggingface.co/transformers/pretrained_models.html).The library can be found [here](https://pypi.org/project/ClusterTransformer/).
 
 
 
